@@ -1,0 +1,111 @@
+@charset "UTF-8";
+/* CSS Document */
+#bg{
+	position:fixed;
+	top: 0;
+	left:1000;
+	z-index: 0;
+	overflow: hidden;
+	alignment-adjust:middle;
+	background-position:center;
+	}
+
+ /*#bg{
+	position:fixed;
+	bottom: 0px;
+	right: 50%;
+	min-width: auto;
+	min-height: auto;
+	width:auto;
+	height:auto;
+	z-index: 0;
+	overflow: hidden;
+	border: 0 !important;
+} 
+
+.avisotexto{
+    z-index: 1;
+    color: black;
+    font-family: Calibri;
+    text-align: justify;
+    font-size: 11px;
+    position:fixed;
+    top: 15%;
+    left: 35%;
+    right: 50%
+}*/
+
+
+
+#instagram{
+	height: 24px;
+	position:fixed;
+	top: 6%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+#twitter{
+	height: 24px;
+	position:fixed;
+	top: 10%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+#facebook{
+	height: 24px;
+	position:fixed;
+	top: 14%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+#youtube{
+	height: 24px;
+	position:fixed;
+	top: 18%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+#vimeo{
+	height: 24px;
+	position:fixed;
+	top: 22%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+#imdb{
+	height: 24px;
+	position:fixed;
+	top: 26%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+
+	#aviso{
+	height: 24px;
+	position:fixed;
+	top: 31%;
+	left: 7%;
+	z-index: 1;
+	overflow:hidden;
+}
+
+	#regresar{
+	height: 24px;
+	position:fixed;
+	top: 85%;
+	left: 9%;
+	z-index: 1;
+	overflow:hidden;
+}
